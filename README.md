@@ -4,10 +4,6 @@ A modern, production-grade frontend dashboard for managing identity assets inclu
 
 ![Dashboard Preview](https://img.shields.io/badge/React-18-blue) ![License](https://img.shields.io/badge/license-MIT-green) ![Status](https://img.shields.io/badge/status-production-success)
 
-## 🚀 Live Demo
-
-**[View Live Demo →](https://your-vercel-deployment.vercel.app)**
-
 ## 📋 Overview
 
 The Identity Asset Dashboard is a single-page application (SPA) built with React 18 that provides a comprehensive interface for managing security credentials and monitoring access logs. It features a clean, professional design with dark mode support and full offline capability.
